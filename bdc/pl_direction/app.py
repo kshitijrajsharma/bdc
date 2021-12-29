@@ -74,4 +74,4 @@ if __name__=="__main__":
 	else:
 		print("Point is on the Line")
 
-# This code is contributed by rutvik_56
+
